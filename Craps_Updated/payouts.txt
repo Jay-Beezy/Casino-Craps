@@ -1,0 +1,25 @@
+
+Payouts:
+
+  Pass line payout: (Any bet amount between the min and max)
+   - 1:1 even money payout
+
+  Odds bet payout:
+    - 2:1 on the 4 and 10 (Any bet amount between the min and max)
+    - 6:5 on the 6 and 8 (Any bet amount in increments of 5)
+    - 3:2 on the 5 and 9 (Any bet amount in increments of 2)
+    - Overall: 3 ways to roll a 4 or 10 => 3/6 => 2:1 true odds
+    -          4 ways to roll a 5 or 9  => 4/6 => 3:2 true odds
+    -          5 ways to roll a 6 or 8  => 5/6 => 6:5 true odds
+
+  Field bet payout:(Any bet amount between the min and max)
+    - 2:1 on the 2 (1 in 36)
+    - 1:1 on the 3, 4, 9, 10, or 11 (14 in 36)
+    - 3:1 on the 12 (1 in 36)
+    - Overall: 16 in 36 ways to win a field bet
+    -          20 in 36 ways to lose a field bet
+
+  Place bet payout:
+    - 9:5 on the 4 and 10 (Any bet amount in increments of 5)
+    - 7:6 on the 6 and 8 (Any bet amount in increments of 6)
+    - 7:5 on the 5 and 9 (Any bet amount in increments of 5)
