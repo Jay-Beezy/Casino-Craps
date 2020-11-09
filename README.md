@@ -3,7 +3,7 @@
 Currently:
   Program that has established pass line bets, odds bets, field bets, and place bets.
   
-  Runs solely through the command line
+    Runs solely through the command line
 
 Future:
   Come bets implemented
