@@ -1,4 +1,4 @@
-# Casino-Craps
+# Gambling-Craps-Table
 
 Currently:
   Program that has established pass line bets, odds bets, field bets, and place bets.
