@@ -1,4 +1,4 @@
-# Craps2.0
+# Casino-Craps
 
 Currently:
   Program that has established pass line bets, odds bets, field bets, and place bets.
